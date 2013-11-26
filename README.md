@@ -3,6 +3,19 @@ cch
 
 CouchCB CLI tool.
 
+## Binaries
+
+[darwin-386](https://s3.amazonaws.com/labs.healpay.com/cch/bin/-darwin-386)
+[darwin-amd64](https://s3.amazonaws.com/labs.healpay.com/cch/bin/-darwin-amd64)
+[freebsd-386](https://s3.amazonaws.com/labs.healpay.com/cch/bin/-freebsd-386)
+[freebsd-amd64](https://s3.amazonaws.com/labs.healpay.com/cch/bin/-freebsd-amd64)
+[freebsd-arm](https://s3.amazonaws.com/labs.healpay.com/cch/bin/-freebsd-arm)
+[linux-386](https://s3.amazonaws.com/labs.healpay.com/cch/bin/-linux-386)
+[linux-amd64](https://s3.amazonaws.com/labs.healpay.com/cch/bin/-linux-amd64)
+[linux-arm](https://s3.amazonaws.com/labs.healpay.com/cch/bin/-linux-arm)
+[windows-386](https://s3.amazonaws.com/labs.healpay.com/cch/bin/-windows-386)
+[windows-amd64](https://s3.amazonaws.com/labs.healpay.com/cch/bin/-windows-amd64)
+
 ## REST
 
 ### GET
