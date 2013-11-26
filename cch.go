@@ -48,7 +48,6 @@ func main() {
 	var data *string
 	var flags *flag.FlagSet
 	if (len(os.Args) <= 2) {
-		fmt.Println(len(os.Args))
 		cmd = "default"
 	} else {
 		cmd = os.Args[1]
